@@ -29,6 +29,8 @@ h6 {
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif
 }
 
+
+
 a {
   color: #212529;
   -webkit-transition: all .2s;
@@ -277,6 +279,10 @@ header.masthead .post-heading .meta a {
   header.masthead .post-heading .subheading {
     font-size: 30px
   }
+}
+
+.font-test {
+  font-family: 'NanumSquare', sans-serif;
 }
 
 .post-preview>a {
